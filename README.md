@@ -1,1 +1,3 @@
-Just a simple todo project
+You can go live from here ;)
+
+https://ahmedelgaidi.github.io/simpleTodos/
